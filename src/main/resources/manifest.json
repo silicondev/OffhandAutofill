@@ -1,0 +1,19 @@
+{
+    "Group": "uk.phyre",
+    "Name": "OffhandAutofill",
+    "Version": "0.1.0",
+    "Description": "Automatically stacks items in your offhand if able.",
+    "Authors": [
+        {
+            "Name": "SiliconDev",
+            "Url": "https://github.com/silicondev"
+        }
+    ],
+    "Website": "https://github.com/silicondev/OffhandAutofill",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "ServerVersion": "*",
+    "Main": "uk.phyre.OffhandAutofill.OffhandAutofill"
+}
