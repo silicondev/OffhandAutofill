@@ -21,8 +21,6 @@ gradle-app.setting
 .classpath
 /.idea
 /devserver
-gradle.properties
-build.gradle.kts
 /gradle
 gradlew
 gradlew.bat
